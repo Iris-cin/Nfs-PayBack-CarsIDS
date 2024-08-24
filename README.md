@@ -21,9 +21,8 @@ Bienvenue dans le dépôt **NFS Payback - Identifiants HEX des Véhicules** ! Ce
 
 ## **Utilisation**
 
-1. Télécharger la liste :
-2. Utiliser `Cheat Engine`
-3. Allez dans un concessionnaire puis entrer l'identifiant de la voiture que vous souhaiter `Qui est à l'intérieur du concessionnaire`
-4. Aller sur une autre voiture et regarder quel valeur est devenu rouge. `Puis prenez cette valeur et mettez la en bas`
-5. Remplacer la valeur par n'importe quel voiture que vous souhaitez.
-
+1. Téléchargez la liste.
+2. Utilisez `Cheat Engine`.
+3. Rendez-vous dans un concessionnaire, puis entrez l'identifiant de la voiture que vous souhaitez modifier, parmi celles disponibles dans le concessionnaire.
+4. Sélectionnez une autre voiture et observez quelle valeur devient rouge. Prenez cette valeur et placez-la en bas.
+5. Remplacez la valeur par celle de la voiture de votre choix.
