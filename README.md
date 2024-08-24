@@ -7,9 +7,7 @@ Bienvenue dans le dépôt **NFS Payback - Identifiants HEX des Véhicules** ! Ce
 - [Introduction](#introduction)
 - [Caractéristiques](#caractéristiques)
 - [Utilisation](#utilisation)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
-- [Remerciements](#remerciements)
+
 
 ## **Introduction**
 
